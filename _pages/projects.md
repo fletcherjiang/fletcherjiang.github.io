@@ -5,7 +5,7 @@ permalink: /projects/
 description: A collection of my projects in computer vision, machine learning, web development, programming, research, game development...
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [game, cv]
 horizontal: false
 ---
 
