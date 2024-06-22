@@ -14,5 +14,6 @@ My Capstone Project, "Video Moment Retrieval using Deep Learning Models," has wo
     <div class="col-12 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/posts/news1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
+    
 [Source:](https://www.polyu.edu.hk/comp/news-and-events/news/2024/0611_best-project-award-competition-2024/)
 
