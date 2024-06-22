@@ -25,13 +25,13 @@ pagination:
 
   <div class="header-bar">
     <h1>{{ site.blog_name }}</h1>
-    <h2>{{ site.blog_description }}</h2>
+    <h2>Please visit <a href="https://imjyy.com" rel="external nofollow noopener" target="_blank">imjyy.com</a> for more information. </h2>
   </div>
   {% endif %}
 
 {% if site.display_tags or site.display_categories %}
 
-  <div class="tag-category-list">
+  <!-- <div class="tag-category-list">
     <ul class="p-0 m-0">
       {% for tag in site.display_tags %}
         <li>
@@ -193,4 +193,4 @@ pagination:
 {% include pagination.liquid %}
 {% endif %}
 
-</div>
+</div> -->
