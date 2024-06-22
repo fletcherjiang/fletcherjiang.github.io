@@ -46,7 +46,7 @@ horizontal: false
   <!-- Generate cards for each project -->
 
 {% if page.horizontal %}
-
+<div class="projects">
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}
@@ -62,4 +62,5 @@ horizontal: false
   </div>
   {% endif %}
 {% endif %}
+</div>
 </div>
