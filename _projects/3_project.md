@@ -5,7 +5,7 @@ description: Fashion Image Generation by Generative Adversarial Networks (GANs) 
 img: assets/img/gan.png
 redirect: https://github.com/zhangwengyu999/Fashion_Image_Generation_Project
 importance: 3
-category: 
+category: cv
 ---
 
 Every project has a beautiful feature showcase page.

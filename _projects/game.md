@@ -5,7 +5,7 @@ description: A visually stunning MOBA PVE game developed with Unity
 img: assets/img/game.png
 redirect: https://github.com/fletcherjiang/HeroStrike
 importance: 1
-category: 
+category: game
 ---
 
 Every project has a beautiful feature showcase page.
