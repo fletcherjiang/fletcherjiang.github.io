@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Fashion Image Generation
+description: Fashion Image Generation by Generative Adversarial Networks (GANs) on Fashion MNIST
+img: assets/img/gan.png
+redirect: https://github.com/zhangwengyu999/Fashion_Image_Generation_Project
 importance: 3
-category: work
+category: 
 ---
 
 Every project has a beautiful feature showcase page.

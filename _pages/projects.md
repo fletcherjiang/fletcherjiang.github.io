@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A collection of my projects in computer vision, machine learning, web development, programming, research, game development...
 nav: true
 nav_order: 3
 display_categories: [work, fun]
