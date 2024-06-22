@@ -31,10 +31,6 @@ layout: default
             include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
             cache_bust=true
           %}
-          <div class="container" bis_skin_checked="1"> 
-          <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=brwlopD_X1SJb71ZKzhbbh4yHxbCpuxCc085RxIyWUc"></script>
-          <div>
-          
         {% endif %}
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>
@@ -44,6 +40,10 @@ layout: default
     
     <div class="clearfix">{{ content }}</div>
 
+    <div class="container" bis_skin_checked="1"> 
+          <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=brwlopD_X1SJb71ZKzhbbh4yHxbCpuxCc085RxIyWUc"></script>
+          <div>
+          
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
       <h2>
