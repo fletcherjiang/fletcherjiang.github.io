@@ -31,9 +31,8 @@
       "studyType": "Bachelor of Science (Hons) in Computer Science",
       "startDate": "2021-09",
       "endDate": "2024-06",
-      "courses": ["Machine Learning", "Computer Vision", 
-      "Data Mining", "Computer Systems Security", "Operating Systems", 
-      "Software Engineering", "Database Systems"]
+      "courses": ["Machine Learning, Computer Vision, Data Mining", "Computer Systems Security, Operating Systems", 
+      "Software Engineering, Database Systems"]
     }
   ],
 
