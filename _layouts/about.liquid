@@ -5,7 +5,7 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">
       {% if site.title == 'blank' %}
-        <span class="font-weight-bold">{{ site.first_name }} {{ site.last_name }}</span> {{ site.middle_name }}
+        <span style="font-weight:400">{{ site.first_name }} {{ site.last_name }}</span> {{ site.middle_name }}
         
       {% else %}
         {{ site.title }}
@@ -39,8 +39,10 @@ layout: default
     {% endif %}
     
     <div class="clearfix">{{ content }}
-    <div style="height: 180px;width: 180px; transform: translate(60%);">
+    <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
+    <div style="height: 200px;width: 200px;">
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=brwlopD_X1SJb71ZKzhbbh4yHxbCpuxCc085RxIyWUc"></script>
+    </div>
     </div>
     </div>
 
