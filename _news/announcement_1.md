@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I joined the [Research Centre for Data Sciences & Artificial Intelligence]("https://rc-dsai.comp.polyu.edu.hk/") as a Student Assistant.
+I joined the [Research Centre for Data Sciences & Artificial Intelligence](https://rc-dsai.comp.polyu.edu.hk/) as a Student Assistant.
