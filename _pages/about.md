@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Fletcher, 江奕飏, yiyang.jiang@polyu.edu.hk
+subtitle: Fletcher, 江奕飏
 
 profile:
   align: right
