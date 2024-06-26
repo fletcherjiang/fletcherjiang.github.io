@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Fashion Image Generation
-description: Fashion Image Generation by Generative Adversarial Networks (GANs) on Fashion MNIST
-img: assets/img/gan.png
-redirect: https://github.com/zhangwengyu999/Fashion_Image_Generation_Project
+title: Secure NFT Trading Platform
+description: Use of RSA and AES to safeguard digital transactions and ensure the integrity of digital artworks
+img: assets/img/nft.png
+redirect: https://github.com/fletcherjiang/NFT_Marketplace
 importance: 4
-category: cv
+category: game
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Fashion Image Generation
-description: Fashion Image Generation by Generative Adversarial Networks (GANs) on Fashion MNIST
-img: assets/img/gan.png
-redirect: https://github.com/zhangwengyu999/Fashion_Image_Generation_Project
-importance: 4
+title: House Price Predictions
+description: A Data Mining and Machine Learning project on Advancing House Price Predictions, a "House Prices - Advanced Regression Techniques" Competition on Kaggle.
+img: assets/img/dm1.png
+redirect: https://github.com/zhangwengyu999/House_Price_Predictions
+importance: 6
 category: cv
 ---
 
