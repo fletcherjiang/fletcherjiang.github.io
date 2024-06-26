@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Fletcher, 江奕飏
+subtitle: Fletcher, 江奕飏, yiyang.jiang@polyu.edu.hk
 
 profile:
   align: right
@@ -12,7 +12,7 @@ profile:
     <p>P504, Department of Computing</p>
     <p>The Hong Kong Polytechnic University</p>
     <p>Kowloon, Hong Kong</p>
-    <p>yiyang.jiang@polyu.edu.hk</p>
+  
 
 
 
