@@ -12,7 +12,7 @@ profile:
     <p>P504, Department of Computing</p>
     <p>The Hong Kong Polytechnic University</p>
     <p>Kowloon, Hong Kong</p>
-    <p>yiyang.jiang@polyu.edu.hk</p>
+    <p><a href="mailto:yiyang.jiang@polyu.edu.hk">yiyang.jiang@polyu.edu.hk<a></p>
 
 
 
