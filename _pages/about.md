@@ -6,7 +6,7 @@ subtitle: Fletcher, 江奕飏
 
 profile:
   align: right
-  image: jyy_icon.JPG
+  image: jyy_icon.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>P504, Department of Computing</p>
