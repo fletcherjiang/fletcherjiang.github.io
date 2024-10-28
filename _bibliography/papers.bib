@@ -1,18 +1,20 @@
----
----
-@inproceedings{
-jiang2024prior,
-title={Prior Knowledge Integration via {LLM} Encoding and Pseudo Event Regulation for Video Moment Retrieval},
-abstract={In this paper, we investigate the feasibility of leveraging large language models (LLMs) for integrating general knowledge and incorporating pseudo-events as priors for temporal content distribution in video moment retrieval (VMR) models. The motivation behind this study arises from the limitations of using LLMs as decoders for generating discrete textual descriptions, which hinders their direct application to continuous outputs like salience scores and inter-frame embeddings that capture inter-frame relations. To overcome these limitations, we propose utilizing LLM encoders instead of decoders. Through a feasibility study, we demonstrate that LLM encoders effectively refine inter-concept relations in multimodal embeddings, even without being trained on textual embeddings. We also show that the refinement capability of LLM encoders can be transferred to other embeddings, such as BLIP and T5, as long as these embeddings exhibit similar inter-concept similarity patterns to CLIP embeddings. We present a general framework for integrating LLM encoders into existing VMR architectures, specifically within the fusion module. The LLM encoder's ability to refine concept relation can help the model to achieve a balanced understanding of the foreground concepts (e.g., persons, faces) and background concepts (e.g., street, mountains) rather focusing only on the visually dominant foreground concepts. Additionally, we introduce the concept of pseudo-events, obtained through event detection techniques, to guide the prediction of moments within event boundaries instead of crossing them, which can effectively avoid the distractions from adjacent moments. The integration of semantic refinement using LLM encoders and pseudo-event regulation is designed as plug-in components that can be incorporated into existing VMR methods within the general framework. Through experimental validation, we demonstrate the effectiveness of our proposed methods by achieving state-of-the-art performance in VMR.},
-author={Yiyang Jiang and Wengyu Zhang and Xulu Zhang and Xiaoyong Wei and Chang Wen Chen and Qing Li},
-booktitle={ACM Multimedia 2024},
+@inproceedings{10.1145/3664647.3681115,
+author = {Jiang, Yiyang and Zhang, Wengyu and Zhang, Xulu and Wei, Xiao-Yong and Chen, Chang Wen and Li, Qing},
+title = {Prior Knowledge Integration via LLM Encoding and Pseudo Event Regulation for Video Moment Retrieval},
+year = {2024},
+isbn = {9798400706868},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3664647.3681115},
+doi = {10.1145/3664647.3681115},
+abstract = {In this paper, we explore the use of large language models (LLMs) to enhance video moment retrieval (VMR) by integrating general knowledge and pseudo-events as priors. We address the limitations of LLMs in generating continuous outputs, such as salience scores and inter-frame embeddings, which are critical for capturing inter-frame relations. To address these limitations, we propose using LLM encoders, which refine inter-concept relations in multimodal embeddings effectively, even without textual training. Our feasibility study shows that this capability extends to other embeddings like BLIP and T5 when they exhibit similar patterns to CLIP embeddings. We present a general framework for integrating LLM encoders into existing VMR architectures, specifically within the fusion module. The LLM encoder's ability to refine concept relation can help the model to achieve a balanced understanding of the foreground concepts (e.g., persons, faces) and background concepts (e.g., street, mountains) rather focusing only on the visually dominant foreground concepts. Additionally, we utilize pseudo-events, identified via event detection, to guide accurate moment prediction within event boundaries, reducing distractions from adjacent moments. Our plug-in approach for semantic refinement and pseudo-event regulation demonstrates state-of-the-art VMR performance through experimental validation. The source code can be accessed at https://github.com/fletcherjiang/LLMEPET.},
+booktitle = {Proceedings of the 32nd ACM International Conference on Multimedia},
+pages = {7249–7258},
+numpages = {10},
+keywords = {highlight detection, llms, video moment retrieval},
+location = {Melbourne VIC, Australia},
+series = {MM '24},
 code={https://github.com/fletcherjiang/LLMEPET},
-selected={true},
-preview={model.png},
-bibtex_show={true},
-year={2024},
-website={https://openreview.net/forum?id=PPmOOMhMOW},
-arxiv={2407.15051},
-abbr={ACM MM}
+arxiv={2407.15051}
 }
 
