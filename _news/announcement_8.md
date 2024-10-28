@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I received the **Champion** of 21st IEEE (HK) Computational Intelligence Chapter FYP & PG Competion.
+I received the **Champion** of [21st IEEE (HK) Computational Intelligence Chapter FYP & PG Competion](https://www.comp.hkbu.edu.hk/~hknnc/?p=a&c=20240909_FYP).

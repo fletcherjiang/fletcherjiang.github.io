@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I earned **Gold Awards** at the HKEIA Innovation & Technology Project Competition Award 2024.
+I earned **Gold Awards** at the [HKEIA Innovation & Technology Project Competition Award 2024](https://www.polyu.edu.hk/comp/news-and-events/news/2024/1025_hkeia-fyp-award-2024/).
