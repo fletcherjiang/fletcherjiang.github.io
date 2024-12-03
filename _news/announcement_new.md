@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work [Prior Knowledge Integration via LLM Encoding and Pseudo Event Regulation for Video Moment Retrieval](https://github.com/fletcherjiang/LLMEPET) is accepted by ACM Multimedia 2024 as Oral presentation (top 3.97%).
+Our work [Prior Knowledge Integration via LLM Encoding and Pseudo Event Regulation for Video Moment Retrieval](https://dl.acm.org/doi/10.1145/3664647.3681115) is accepted by ACM Multimedia 2024 as Oral presentation (top 3.97%).
