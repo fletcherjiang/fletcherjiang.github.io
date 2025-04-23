@@ -3,7 +3,7 @@ layout: page
 title: PMS
 description: Project Meeting Scheduler, a C project that schedules meetings for a group of people.
 redirect: https://github.com/fletcherjiang/Project-Meeting-Scheduler
-img: assets/img/pms.jpg
+img: assets/img/pms.png
 importance: 6
 category: game
 ---

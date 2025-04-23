@@ -2,7 +2,7 @@
 layout: page
 title: Building Recognition System
 description: System to recognize buildings from images.
-img: assets/img/tour.jpg
+img: assets/img/tour.png
 redirect: https://github.com/fletcherjiang/Building_Recognition_System
 importance: 1
 category: game
