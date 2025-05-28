@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Yiyang
 middle_name: 
 last_name: Jiang
-email: yiyang.jiang@polyu.edu.hk
+email: fletcher.jiang@connect.polyu.hk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
  Jiang Yiyang | Homepage.
 footer_text: >
@@ -53,7 +53,7 @@ footer_fixed: true
 # socials_in_search: true
 
 # Dimensions
-max_width: 800px
+max_width: 1000px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -94,7 +94,7 @@ pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
 research_gate_profile: # your profile on ResearchGate
-scholar_userid:  # your Google Scholar ID
+scholar_userid: TvyGmeEAAAAJ  # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
@@ -367,7 +367,7 @@ filtered_bibtex_keywords:
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
-max_author_limit: 3 # leave blank to always show all authors
+max_author_limit: # leave blank to always show all authors
 more_authors_animation_delay: 10 # more authors are revealed on click using animation; smaller delay means faster animation
 
 # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
