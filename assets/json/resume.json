@@ -26,6 +26,15 @@
       "institution": "Department of Computing, The Hong Kong Polytechnic University",
       "location": "Hong Kong",
       "url": "https://www.polyu.edu.hk/",
+      "area": "Awardee of Hong Kong PhD Fellowship Scheme (HKPFS) 2025/26",
+      "studyType": "Doctor of Philosophy (PhD) in Artificial Intelligence",
+      "startDate": "2025-09",
+      "endDate": "Present"
+    },
+    {
+      "institution": "Department of Computing, The Hong Kong Polytechnic University",
+      "location": "Hong Kong",
+      "url": "https://www.polyu.edu.hk/",
       "area": "First Class Honours, Dean's Honours List",
       "studyType": "Bachelor of Science (Hons) in Computer Science",
       "startDate": "2021-09",
@@ -41,7 +50,7 @@
       "position": "Research Assistant",
       "url": "https://polyu.edu.hk/comp",
       "startDate": "2024-06",
-      "endDate": "Now",
+      "endDate": "2025-08",
       "summary": "Focus on Virtual Human, Sign Language Translation and Large Language Models",
       "highlights": ["Computer Vision, Deep Learning"]
     },
@@ -77,6 +86,11 @@
   ],
 
   "awards": [
+    {"title": "Hong Kong PhD Fellowship Scheme (HKPFS) 2025/26",
+      "date": "2025",
+      "awarder": "Research Grants Council, Hong Kong SAR Government",
+      "url": "https://cerg1.ugc.edu.hk/hkpfs/index.html"
+    },  
     {
       "title": "Gold Awards of HKEIA Innovation & Technology Project Competition Award 2024",
       "date": "2024",
